@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Clásico"
+        android:id="@+id/Clasico"
+        android:icon="@drawable/baseline_front_hand_24"
+    />
+
+    <item android:title="Competitivo"
+        android:id="@+id/Competitivo"
+        android:icon="@drawable/baseline_sports_esports_24"
+    />
+</menu>
